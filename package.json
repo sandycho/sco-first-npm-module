@@ -1,0 +1,15 @@
+{
+  "name": "testing-sco-test-1",
+  "version": "1.0.0",
+  "description": "Testing sco-test-1 module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandy Chuchuca <sandy.chuchuca@gmail.com> (https://www.protoinformatico.com)",
+  "license": "ISC",
+  "dependencies": {
+    "sco-test-1": "^1.0.1"
+  }
+}
